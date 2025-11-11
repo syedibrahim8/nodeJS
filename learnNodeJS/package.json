@@ -1,0 +1,20 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is my first nodejs project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "python"
+  ],
+  "author": "Syed Ibrahim Ali",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
